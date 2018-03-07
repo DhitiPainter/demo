@@ -21,10 +21,9 @@
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="APPCENTER_ANALYTICS_ENABLE_IN_JS" value="true" />
     <preference name="APPCENTER_CRASHES_ALWAYS_SEND" value="false" />
+    
     <platform name="android">
-        <preference name="APPCENTER_APP_SECRET" value="a002efc2-3e11-480b-8502-fb8016354e76" />
-    </platform>
-    <platform name="android">
+        <preference name="APP_SECRET" value="b30e607e-72d7-4374-9d8b-4c96219b9634" />
         <allow-intent href="market:*" />
         <icon density="ldpi" src="resources/android/icon/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="resources/android/icon/drawable-mdpi-icon.png" />
